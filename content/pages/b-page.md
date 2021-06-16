@@ -1,5 +1,5 @@
 ---
-title: BBB My title
+title: BBB My title!!!
 hide_title: true
 sections: []
 seo:
