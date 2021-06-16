@@ -3,9 +3,9 @@ title: Thank You!
 hide_title: false
 sections:
   - type: hero_section
-    content: >-
+    content: >
       Thank you for testing this template. We hope you like it. Have a great
-      day!
+      day!!!!!
     actions:
       - label: Back to homepage
         url: /
